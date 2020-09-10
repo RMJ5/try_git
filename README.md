@@ -1,8 +1,7 @@
-Version 1.0.1B
-<<<<<<< HEAD
+Version 2.0.0.SNAPSHOT
+
 #Fixed the bug
 =======
 #Feature done
 
->>>>>>> feature/BIGFEATURE
 
